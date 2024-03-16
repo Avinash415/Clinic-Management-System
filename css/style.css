@@ -465,7 +465,7 @@ p{
     margin: .5rem;
     line-height: 2rem;
     font-size: .875rem;
-    display:inline-block;
+/*     display:inline-block; */
     border: .125rem solid var(--bg-light-blue);
     color: var(--text-light);
      text-align: center;
